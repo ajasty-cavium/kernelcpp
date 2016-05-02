@@ -1,0 +1,1 @@
+As we know linux kernel is written in C language. All the modules run in kernel mode are all written in C. This project is to seek a way of using C++ language in Linux kernel module development.
